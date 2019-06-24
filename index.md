@@ -1,3 +1,5 @@
+\| {% for page in site.data.main_nav.pages %}[{{ page.title }}](/{{ page.url }}) \| {% endfor %}
+
 ## Building Dragons. Together.
 
 In May 2019, I decided to create a JavaFX application written entirely
