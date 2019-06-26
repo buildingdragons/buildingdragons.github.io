@@ -1,5 +1,5 @@
 pages:
-  - title: Home
-    url: /index.html
   - title: Repository
     url: https://github.com/buildingdragons/dragon
+  - title: Wiki
+    url: https://github.com/buildingdragons/dragon/wiki
