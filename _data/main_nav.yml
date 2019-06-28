@@ -1,6 +1,6 @@
 pages:
   - title: Home
-    url: /home.html
+    url: /index.html
   - title: Tools
     url: /tools.html
   - title: GitHub Repository
