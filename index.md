@@ -15,10 +15,10 @@ open an issue, and I do my best to come back to you as soon as possible.
 
 ### And why dragons anyway?
 
-In my imagination, Dragons are things challenging to create, and, even more,
-challenging to handle. Building software from scratch is a complex process for
-its own, but doing so using technology entirely new for the creator makes the
-already complicated process difficult.
+In my imagination, Dragons are creatures challenging to create, and, even
+more, challenging to handle. Building software from scratch is already a
+complex process, but doing so using technology entirely new for the creator
+makes the already complicated process difficult.
 
 Another analogy could be Goethe's poem "The Sorcerer's Apprentice": The
 apprentice of a sorcerer starts a process he barely understands and is not able
